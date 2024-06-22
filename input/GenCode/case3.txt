@@ -1,0 +1,7 @@
+module space{
+	module A{
+		struct B{
+			short a=10;
+		};
+	};
+};

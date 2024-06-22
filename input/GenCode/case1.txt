@@ -1,0 +1,13 @@
+module space{
+    module space1{
+	    struct A{
+		    short a=10;
+	    };
+	};
+	module space2{
+	struct B{
+		long c=100;
+		space1::A d;
+	};
+	};
+};

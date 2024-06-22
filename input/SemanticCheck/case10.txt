@@ -1,0 +1,7 @@
+module x{
+    module y{
+        struct z{
+           int8 x = 12;
+        };
+    };
+};
