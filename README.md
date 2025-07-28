@@ -1,4 +1,6 @@
-# yanzhe-Xiao-My-First-Complier-Work-DeepWiki
+# My-First-Complier-Work-DeepWiki
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yanzhe-Xiao/My-First-Complier-Work)
 
 ## Content Index
 
